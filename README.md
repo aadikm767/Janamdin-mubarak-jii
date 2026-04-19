@@ -84,14 +84,14 @@
 
     <div class="page active" id="page1">
         <h1>THIS IS FOR YOU MY BHONDUU....</h1>
-        <img src="https://i.ibb.co/gLJp1wVv/image.jpg" class="bhondu-img" alt="Bhondu">
+        <img src="https://i.postimg.cc/DyvVSk8V/Whats-App-Image-2026-04-19-at-13-46-16.jpg" alt="Bhondu">
         <input type="password" id="pass" placeholder="Password is 'panda'...">
         <button onclick="checkPassword()">Enter 🐼</button>
     </div>
 
     <div class="page" id="page2">
         <h1>Happy Birthday Pyaaari Bhonduu</h1>
-        <img src="https://i.ibb.co/N2H4tjs8/image.jpg" style="width: 90%; max-width: 450px; border-radius: 15px; border: 5px solid white; box-shadow: 0 5px 15px rgba(0,0,0,0.2);" alt="Collage">
+        <img src="https://i.postimg.cc/gcKQFS45/Whats-App-Image-2026-04-19-at-13-51-57.jpg" style="width: 90%; max-width: 450px; border-radius: 15px; border: 5px solid white; box-shadow: 0 5px 15px rgba(0,0,0,0.2);" alt="Collage">
         <button onclick="nextPage(3)">Next Page ❤️</button>
     </div>
 
@@ -99,14 +99,14 @@
         <h1 id="gift-msg">Click to Open</h1>
         <div class="gift-box" id="box" onclick="openGift()">🎁</div>
         <div id="gift-content" style="display:none;">
-            <img src="https://i.ibb.co/1t6WjQzx/image.jpg" class="bhondu-img" alt="Surprise">
+            <img src="https://i.postimg.cc/cHS9Pwnz/Whats-App-Image-2026-04-17-at-14-28-08.jpg" class="bhondu-img" alt="Surprise">
             <p style="font-size: 1.2rem; color: #ff4d7d;"><strong>Cutest thing in the whole world!</strong></p>
             <button onclick="nextPage(4)">Continue ✨</button>
         </div>
     </div>
 
     <div class="page" id="page4">
-        <img src="https://i.ibb.co/Cs5CMRm3/image.jpg" class="bhondu-img" alt="Beauty">
+        <img src="https://i.postimg.cc/Y28ny4C0/Whats-App-Image-2026-04-17-at-14-29-00.jpg" class="bhondu-img" alt="Beauty">
         <p class="hindi-text">"आपका व्यक्तित्व उस अलौकिक आभा के समान है, जो बिना किसी श्रृंगार के भी मन को मुग्ध कर लेती है। आपकी सादगी ही आपका वास्तविक सौंदर्य है।"</p>
         <button onclick="nextPage(5)">Read my letter ✉️</button>
     </div>
